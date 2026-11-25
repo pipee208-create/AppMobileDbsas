@@ -1,5 +1,5 @@
 {
-  "name": "GlucoPulse",
+  "name": "Glucosoft",
   "description": "Prototipo móvil interactivo de glucometría local-first y Blueprint de arquitectura Flutter con integración BLE para equipos de Diagnósticos Biomédicos.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

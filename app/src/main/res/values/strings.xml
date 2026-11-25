@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glucosoft</string>
+    <string name="brand_title">Glucosoft App</string>
+    <string name="brand_subtitle">Control personal de glucosa · Privado en tu teléfono</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_history">Historial</string>
+    <string name="nav_devices">Medidor</string>
+    <string name="nav_emergency">Ayuda</string>
+    <string name="nav_profiles">Perfiles</string>
+    <string name="action_new_measurement">Nueva medición</string>
+    <string name="action_export_pdf">Reporte PDF</string>
+    <string name="action_share_pdf">Compartir</string>
+    <string name="action_save_pdf">Guardar PDF</string>
+    <string name="action_connect_ble">Conectar glucómetro</string>
+    <string name="action_manage_ble">Gestionar conexión</string>
+    <string name="action_quick_guide">Guía rápida</string>
+    <string name="first_profile_title">Crea tu primer perfil para comenzar</string>
+    <string name="first_profile_subtitle">No necesitas correo ni internet. Tus mediciones se guardan de forma privada en este dispositivo (hasta 3 perfiles).</string>
+    <string name="disclaimer_orientative">Aviso orientativo: Los colores y rangos mostrados son configurables en tu perfil y sirven solo como guía visual. No sustituyen un diagnóstico ni indicación médica profesional.</string>
+</resources>
